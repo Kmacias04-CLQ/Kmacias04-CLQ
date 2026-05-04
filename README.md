@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Kevin Macias 👋</h1>
 
-<!--
-**Kmacias04-CLQ/Kmacias04-CLQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Kevin Misael Macias Maldonado</strong><br>
+  Ingeniería en Sistemas Computacionales · ITC · Colima, México
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.instagram.com/d7636622?igsh=cmtxYjA5ODA2bnc0&utm_source=qr">
+    <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/settings/profile">
+    <img src="https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑 Sobre mí
+
+Soy estudiante del Instituto Tecnológico de Colima, apasionado por construir soluciones de software y enfrentarme a nuevos retos que conecten el mundo físico con el digital. Me especializo en proyectos de IoT, automatización y desarrollo móvil, buscando siempre crear tecnología con impacto real.
+
+```yaml
+nombre:    Kevin Misael Macias Maldonado
+ubicacion: Colima, México
+escuela:   Instituto Tecnológico de Colima
+enfoque:   · Mobile\Web · FrontEnd 
+estado:    Abierto a colaboraciones 🚀
+```
+
+---
